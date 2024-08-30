@@ -1,7 +1,9 @@
 var age = +prompt('Yoshingiz nechchida')
 
 if (age >= 60) {
-	alert('Siz nafaqa yoshida ekansiz')
+	alert(
+		'Siz nafaqa yoshida ekansiz. Shuning uchun Maldivda dam olishingiz kerak !!!'
+	)
 } else if (age >= 50) {
 	alert('Siz yaqinda nafaqa yoshiga yetarkansiz')
 } else if (age >= 49) {
