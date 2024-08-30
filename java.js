@@ -64,7 +64,7 @@ if (soat === 1) {
 	alert('Soat kechasi 12 boldi !')
 } else {
 	alert(
-		"Bunday turdagi vaqtlar o'ylab topilmagan hali ! Shuning uchun kalleni ishlat"
+		"Bunday turdagi vaqtlar o'ylab topilmagan hali ! Shuning uchun kalleni ishlat !"
 	)
 }
 
